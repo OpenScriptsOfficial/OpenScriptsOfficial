@@ -47,5 +47,5 @@ I have been into programming since I was 16. My first language was Python and I 
 
 <h3 align="left">📈 My statistics :</h3>
 <p align="center">
-<img width="600" height="300" src="Assets/CodewarsStatistic.svg" alt="Statistic"/>
+<img src="Assets/CodewarsStatistic.png" alt="Statistic"/>
 </p>
