@@ -58,7 +58,7 @@ I have been into programming since I was 16. My first language was Python and I 
 
 ###
 
-<h3 align="left">📈 My statistics :</h3>
+<h3 align="left">📈 My statistics : 16/12/2024</h3>
 <p align="center">
 <img src="Assets/CodewarsStatistic.png" alt="Statistic"/>
 </p>
