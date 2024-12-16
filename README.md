@@ -46,11 +46,6 @@ I have been into programming since I was 16. My first language was Python and I 
 ###
 
 <h3 align="left">📈 My statistics :</h3>
-
-###
-
-
-###
-
-
-###
+<p align="center">
+<img src="Assets/CodewarsStatistic.svg" alt="Statistic"/>
+</p>
