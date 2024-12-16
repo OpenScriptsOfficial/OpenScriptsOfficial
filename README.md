@@ -26,6 +26,7 @@
 ###
 
 <h3 align="left">👩‍💻  About me:</h3>
+Hello World!<br>
 I have been into programming since I was 16. My first language was Python and I am still into it. I am also learning C++, Kotlin, Dart (Flutter), Arduino and C# for Unity. I will be posting my projects here in the public domain and anyone can view them. I also run my YouTube channel, so you can follow me there too 😎.
 
 
