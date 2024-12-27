@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src=""  />
+  <img src="Assets/GithubGIF.gif">
 </div>
 
 ###
