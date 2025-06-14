@@ -48,13 +48,7 @@ I have been into programming since I was 16. My first language was Python and I 
       <img src="https://yt3.googleusercontent.com/NdL5i1mQiSF1HyKBR_SKa_acLI7KREcAzVzcIx9CQ3yCcnPW2_pS9B7FZ3b5qEP4bvw8HXFp=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Open Scripts Official">
   </a>
 
-<div align="center">
 
-</div>
-
-<div align="center">
-<img src=""/>
-</div>  
 </p>
 
 ###
