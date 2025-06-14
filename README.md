@@ -39,7 +39,7 @@ I have been into programming since I was 16. My first language was Python and I 
 
 <p align="center">
   <a href="https://www.youtube.com/@OpenScriptsOfficial">
-      <img src="https://yt3.googleusercontent.com/IOEJlgc4zf1PaBwUvU5zN-ACQ7vNwDSNDLwjaJIIUu8i2zckmOuwvg9YUV_O8mRVhhyubvlx-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Open Scripts Official">
+      <img src="https://yt3.googleusercontent.com/NdL5i1mQiSF1HyKBR_SKa_acLI7KREcAzVzcIx9CQ3yCcnPW2_pS9B7FZ3b5qEP4bvw8HXFp=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Open Scripts Official">
   </a>
 
 <div align="center">
@@ -58,7 +58,4 @@ I have been into programming since I was 16. My first language was Python and I 
 
 ###
 
-<h3 align="left">📈 My statistics : 16/12/2024</h3>
-<p align="center">
-<img src="Assets/CodewarsStatistic.png" alt="Statistic"/>
 </p>
