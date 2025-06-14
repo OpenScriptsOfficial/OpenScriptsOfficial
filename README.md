@@ -34,6 +34,12 @@ I have been into programming since I was 16. My first language was Python and I 
 
 <p align="left"></p>
 
+
+<div align="center">
+  
+</div>
+
+
 ###
 
 
@@ -43,12 +49,7 @@ I have been into programming since I was 16. My first language was Python and I 
   </a>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-ffc870"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-FF0000"/>
-  <img src="https://img.shields.io/badge/Arduino-40E0D0"/>
-  <img src="https://img.shields.io/badge/C%23-8A2BE2"/>
-  <img src="https://img.shields.io/badge/Kotlin-D2691E"/>
-  <img src="https://img.shields.io/badge/Java-ffc870"/>
+
 </div>
 
 <div align="center">
