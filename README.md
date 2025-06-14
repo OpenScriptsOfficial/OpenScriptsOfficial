@@ -36,7 +36,7 @@ I have been into programming since I was 16. My first language was Python and I 
 
 
 <div align="center">
-  
+  <img src="Resourses/untitled.png">
 </div>
 
 
@@ -53,7 +53,7 @@ I have been into programming since I was 16. My first language was Python and I 
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Youtube-FF0000"/>
+<img src=""/>
 </div>  
 </p>
 
