@@ -1,8 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img src="Resourses/github.gif">
-</div>
 
 ###
 
